@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;mailroom&apos;&#x0D;&#x0A;- Original project: &apos;mailroom&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     mailroom/src/com.unimelb.swen30006.mailroom&#x0D;&#x0A;     mailroom/src/com.unimelb.swen30006.mailroom.exceptions&#x0D;&#x0A;     mailroom/src/com.unimelb.swen30006.mailroom.samples&#x0D;&#x0A;- Delete subpackages" description="Delete elements" element1="/src&lt;com.unimelb.swen30006.mailroom.samples" element2="/src&lt;com.unimelb.swen30006.mailroom.exceptions" element3="/src&lt;com.unimelb.swen30006.mailroom" element4="/src&lt;com.unimelb.swen30006" element5="/src&lt;com.unimelb" element6="/src&lt;com" elements="6" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1457426148972" subPackages="true" version="1.0"/>
+</session>
